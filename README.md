@@ -9,6 +9,6 @@
 <h1 align="center">
 
   [![Anurag's GitHub stats](https://github-readme-stats-lplanch.vercel.app/api?username=lplanch&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats-lplanch.vercel.app/api/top-langs/?username=lplanch&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-lplanch.vercel.app/api/top-langs?username=lplanch&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </h1>
